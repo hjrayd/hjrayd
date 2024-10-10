@@ -8,7 +8,7 @@ I'm Hajar and i'm currently in training to become a Web Developer. <br>
 Currently, i'm learning PHP and SQL. <br>
 I love coding and creating new projects so feel free to watch my repositories ! <br>
 
-## Languages and tools :
+## Languages and tools : :computer:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,git,figma,symfony,vscode)](https://skillicons.dev)
 
 ## My Stats : 
