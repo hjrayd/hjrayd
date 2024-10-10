@@ -13,5 +13,5 @@ I love coding and creating new projects so feel free to watch my repositories ! 
 
 ## My Stats : 
 ![hjrayd's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjrayd&show_icons=true&theme=rose)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjrayd)](https://github.com/hjrayd/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjrayd&show_icons=true&theme=rose)](https://github.com/hjrayd/github-readme-stats)
 
