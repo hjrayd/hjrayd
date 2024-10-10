@@ -12,6 +12,6 @@ I love coding and creating new projects so feel free to watch my repositories ! 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,git,figma,symfony,vscode)](https://skillicons.dev)
 
 ## My Stats : 
-![hjrayd's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjrayd&show_icons=true&theme=rose)
+![hjrayd's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjrayd&show_icons=true&theme=rose) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjrayd&show_icons=true&theme=rose)](https://github.com/hjrayd/github-readme-stats)
 
